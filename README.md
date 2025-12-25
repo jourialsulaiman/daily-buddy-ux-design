@@ -1,82 +1,83 @@
-# Daily Buddy – UX Design Project
+# Daily Buddy – UX Design & Prototype
 
-Daily Buddy is a user-centered UX design project that focuses on helping children (ages 6–12) build healthy daily routines while reducing parental stress.  
+Daily Buddy is a user-centered UX design project focused on helping children (ages 6–12) build healthy daily routines while reducing parental stress.  
 The solution combines a **mobile application for parents** with a **smartwatch interface for children** to support task management, motivation, health tracking, and safety.
 
 ---
 
 ## 🧠 Project Overview
-This project was developed following a full **UX design lifecycle**, including user research, ideation, prototyping, and usability testing.  
-The goal was to design an intuitive, engaging, and safe system that supports children’s independence while giving parents reassurance and control.
+This project follows a complete **UX design process**, from user research and ideation to prototyping and usability testing.  
+The goal was to design an intuitive, engaging, and safe system that encourages children’s independence while giving parents reassurance and control.
 
-Daily Buddy addresses common challenges such as:
-- Children forgetting daily tasks and routines
-- Dependence on constant parental reminders
-- Parental anxiety about child safety and health
-- Low motivation toward healthy habits
+Daily Buddy addresses challenges such as:
+- Children forgetting daily tasks and routines  
+- Dependence on constant parental reminders  
+- Low motivation toward healthy habits  
+- Parental concerns about safety and well-being  
+
+---
+
+## 🎨 Figma Prototype
+The interactive UX prototype was designed in **Figma** and demonstrates key user flows for both parents and children.
+
+🔗 **View the prototype:**  
+https://www.figma.com/design/xgP9rlaYINTQazG6yLSAo9/DailyBuddy?t=O9o2S17exEyDWpXG-1
 
 ---
 
 ## 🔍 User Research
-Research was conducted using:
-- **Interviews** with parents and children
-- **Online questionnaires**
-- Analysis of daily routines, motivation, health habits, and safety concerns
+User research was conducted using:
+- Interviews with parents and children  
+- Online questionnaires  
+- Analysis of daily routines, motivation, and safety concerns  
 
-Key findings showed that:
-- Children rely heavily on reminders
-- Rewards and positive reinforcement are strong motivators
-- Parents experience high concern regarding routines and location safety
+Key insights revealed that:
+- Children respond strongly to visual schedules and rewards  
+- Parents value real-time reassurance and monitoring  
+- Simplicity and clarity are essential for child-focused interfaces  
 
-These insights directly informed personas, features, and design decisions.
+These findings directly informed personas, user flows, and design decisions.
 
 ---
 
 ## 🎯 Solution Summary
-**Daily Buddy** provides:
-- Visual task schedules with reminders
-- A reward system to motivate children
-- Real-time location tracking for parental reassurance
-- Health and activity monitoring (steps, sleep, heart rate, oxygen level)
-- Emergency alerts via smartwatch integration
+Daily Buddy provides:
+- Visual daily task schedules with reminders  
+- A reward-based motivation system  
+- Smartwatch integration for children  
+- Health and activity tracking (steps, sleep, heart rate, oxygen level)  
+- Real-time location tracking and emergency alerts for parents  
 
-The design prioritizes simplicity, clarity, and child-friendly interaction.
+The design prioritizes accessibility, clarity, and child-friendly interaction.
 
 ---
 
 ## 🛠️ Design & Prototyping
-The project includes:
-- Low-fidelity sketches
-- User flows and storyboards
-- High-fidelity interactive prototype designed in **Figma**
-- Smartwatch hardware mock-ups
+The design process included:
+- User flows and storyboards  
+- Low- and high-fidelity wireframes  
+- Interactive mobile and smartwatch prototypes  
+- Iterative design refinements based on usability feedback  
 
-Both the mobile app and smartwatch interfaces were designed to work together seamlessly.
+All interfaces were designed to work together seamlessly across devices.
 
 ---
 
 ## 🧪 Usability Testing
-Usability testing was conducted using the **Think-Aloud** method with parent–child pairs.
+Usability testing was conducted using the **Think-Aloud** method with parent–child participants.
 
-Evaluation metrics included:
-- Task completion rate
-- Time on task
-- Number of errors
-- User satisfaction
+Evaluation focused on:
+- Task completion  
+- Ease of navigation  
+- Error frequency  
+- Overall user satisfaction  
 
-The results helped identify usability issues and guided design improvements.
+The results were used to identify usability issues and guide design improvements.
 
 ---
 
 ## 📄 Documentation
-The full project documentation, including:
-- Research analysis
-- Personas
-- Design rules
-- Prototypes
-- Usability testing results  
-
-is available in the uploaded **project report (PDF)**.
+The full project documentation—including research analysis, personas, design decisions, and usability testing results—is available in the uploaded **project report (PDF)**.
 
 ---
 
